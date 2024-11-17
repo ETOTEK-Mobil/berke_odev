@@ -7,11 +7,11 @@ class Hafta1View extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Hafta 1'),
+        title: const Text('1. Hafta'),
       ),
       body: const Center(
         child: Text(
-          'Hafta 1',
+          '1. Hafta',
           style: TextStyle(fontSize: 20),
         ),
       ),
